@@ -11,3 +11,4 @@ Links to different places in kaspa crypto currency universe
 #### Kaspa KGI -  http://kgi.kaspanet.org
 #### Kaspa Client + Official Kaspa Miner - https://github.com/kaspanet/kaspad
 #### Kaspa Miner ( with improved hash-power )  - https://github.com/elichai/kaspa-miner 
+#### Mining On Android - https://steemit.com/cargo/@kaspa/mining-kaspa-on-android-phone-works-without-rooting
